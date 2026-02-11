@@ -6,7 +6,11 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a passionate programming student currently exploring the fundamentals of software development. Although I'm just starting out, I've already uploaded several exercises and small projects to GitHub, where I practice logic, syntax, and Git usage. I love learning new technologies and taking on challenges that help me grow as a developer. My goal is to master key concepts, collaborate on interesting projects, and gradually specialize in an area that combines creativity and problem-solving. I'm always open to advice and opportunities to keep improving!</a>
+I'm a passionate programming student currently building a strong foundation in software development. While still at an early stage in my journey, I’ve already shared several exercises and small projects on GitHub, where I continuously practice logic, syntax, and version control with Git.
+
+I enjoy learning new technologies and taking on challenges that push me to grow as a developer. My goal is to master core concepts, collaborate on meaningful projects, and gradually specialize in an area that blends creativity with problem-solving.
+
+I’m always open to feedback, learning opportunities, and experiences that help me improve both technically and professionally.</a>
 
 
 ## By the way here are some of my statistics 🚀
